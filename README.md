@@ -1,6 +1,6 @@
 <!-- Hi there 👋 I'm Aishu -->
 <h1 align="center">Hi 👋, I'm Aishu</h1>
-<h3 align="center">A passionate Developer | Java | Python | System Design Enthusiast</h3>
+<h3 align="center">Developer | Java | Python | System Design</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0AD4E3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+Full+Stack+Developer;Java+%7C+Python+%7C+Spring+Boot+%7C+MySQL" alt="Typing SVG" />
@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishuJL&show_icons=true&theme=radical&count_private=true" alt="aishu's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=aishuJL&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishuJL&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishuJL&layout=compact&theme=radical" alt="Top Langs" />
 </p>
