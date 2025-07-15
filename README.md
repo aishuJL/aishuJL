@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aishuJL&show_icons=true&theme=radical&count_private=true" alt="aishu's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishuJL&theme=radical" alt="aishu's GitHub streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=aishuJL&theme=radical" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishuJL&layout=compact&theme=radical" alt="Top Langs" />
 </p>
