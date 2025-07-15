@@ -26,16 +26,6 @@ Skilled in building backend applications using Java, Spring Boot, and MySQL. Pas
 
 ---
 
-## 👩‍💻 Experience
-
-**Aspiring Backend Developer – Open to Opportunities**  
-*July 2025 – Present*  
-- Currently learning **System Design** and **Advanced DSA using Java**.  
-- Working on personal projects involving Java + Spring Boot stack.  
-- Improving problem-solving skills and contributing to technical communities.
-
----
-
 ## 🚀 Projects
 
 > *Projects will be added soon. Stay tuned!*
@@ -46,12 +36,6 @@ Skilled in building backend applications using Java, Spring Boot, and MySQL. Pas
 
 ---
 
-## 📜 Certifications
-
-> *Certifications will be listed here once available.*
-
----
-
 ## 📫 Connect With Me
 
 - 📧 **Email:** aishulochan@gmail.com  
@@ -59,6 +43,3 @@ Skilled in building backend applications using Java, Spring Boot, and MySQL. Pas
 - 💻 **GitHub:** [github.com/aishuJL](https://github.com/aishuJL)
 
 ---
-
-⭐ **Open to developer roles | internships or learning collaborations**  
-Let’s connect and build something impactful together! 🚀
