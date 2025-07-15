@@ -1,81 +1,84 @@
-<h1 align="center">Hi 👋, I'm Aishu</h1>
-<h3 align="center">Developer | Java | Python | System Design</h3>
+<h2 align="left">Hi 👋! I'm Aishu — Developer & System Design Enthusiast</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=0FFBC1&center=true&vCenter=true&multiline=true&width=800&lines=Spring+Boot+Developer;System+Design+Learner;DSA+in+Java;Open+to+opportunities+%F0%9F%9A%80" alt="Typing animation" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="43" alt="Java" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="43" alt="Python" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="MySQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="HTML5" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="CSS3" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="43" alt="Spring Boot" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="43" alt="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="43" alt="Linux" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="43" alt="VS Code" />
+</div>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently learning **System Design** and **Advanced DSA**
-- 💻 I build Java + Spring Boot projects with real-world architecture
-- 💬 Ask me about **Java, Backend, Databases, and Problem Solving**
-- 📫 Email me at: `aishulochan@gmail.com`
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/aishu-ji-lochan-0598a4268)
-
----
-
-### 🚀 Tech Stack
-
-#### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🧰 Backend & Frameworks  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST--API-FF6C37?style=for-the-badge&logo=postman)
-
-#### 🌐 Frontend  
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### ⚙️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- 💻 Developer with a passion for **Java, Python, and backend systems**
+- 🌱 Currently learning **System Design & Advanced Java DSA**
+- 🚀 Always curious to build scalable and efficient backend architectures
+- ✉️ Reach me at **aishulochan@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aishu-ji-lochan-0598a4268)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishuJL&show_icons=true&theme=radical&count_private=true" />
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=aishuJL&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=aishuJL&hide_border=true" />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=aishuJL&hide_border=true" />
-  </picture>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishuJL&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aishuJL&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishuJL&theme=radical" width="47%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishuJL&layout=compact&theme=radical" width="40%"/>
+</div>
 
 ---
 
-### 📈 GitHub Activity Graph
+### 📫 Connect with Me
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aishuJL&theme=tokyo-night&hide_border=true)](https://github.com/aishuJL)
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
+<div align="center">
   <a href="mailto:aishulochan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/aishu-ji-lochan-0598a4268">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</div>
+
+---
+
+### 🧠 Learning Goals
+
+- ☑️ Master System Design concepts
+- ☑️ Build REST APIs with Spring Boot
+
+---
+
+### ✨ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aishuUSERNAME&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="aishu" />
 </p>
 
 ---
 
-⭐️ Thank you for visiting my profile!
+⭐️ From [Aishu](https://github.com/aishuUSERNAME)
