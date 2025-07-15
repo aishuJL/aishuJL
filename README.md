@@ -78,5 +78,3 @@
 </p>
 
 ---
-
-⭐️ _From [Aishu](https://github.com/aishuJL)
