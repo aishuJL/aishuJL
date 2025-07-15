@@ -1,6 +1,6 @@
 #  Hello👋, I'm Aishu
 
-**Developer | Java and System Design |**
+**Developer**
 
 Skilled in building backend applications using Java, Spring Boot, and MySQL. Passionate about designing scalable systems, RESTful APIs, and exploring system architecture and clean code principles. Enthusiastic about continuous learning and open-source collaboration.
 
