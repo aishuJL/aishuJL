@@ -32,7 +32,7 @@ Skilled in building backend applications using Java, Spring Boot, and MySQL. Pas
 
 | Project Name | Description | Tech Stack | Links |
 |--------------|-------------|------------|-------|
-| *Crisis-response-agent* | Emergency assistant providing real time solutions for crisi scenarios.Integraed actual emergency contact details.| Python |  |
+| *Crisis-response-agent* | Emergency assistant providing real time solutions for crisi scenarios.Integraed actual emergency contact details.| Python | https://github.com/aishuJL/crisis-response-agent |
 
 ---
 
